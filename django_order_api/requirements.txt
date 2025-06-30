@@ -1,0 +1,9 @@
+asgiref==3.8.1
+Django==5.2.3
+djangorestframework==3.16.0
+sqlparse==0.5.3
+typing_extensions==4.14.0
+Flask==3.0.3
+openai==1.25.2
+requests==2.31.0
+python-dotenv==1.0.1
